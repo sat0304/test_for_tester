@@ -6,5 +6,5 @@
 
 ### Ссылка для скачивания
 ```
-https://github.com/sat0304/test_for_tester
+git clone https://github.com/sat0304/test_for_tester
 ```
